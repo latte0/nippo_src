@@ -7,7 +7,8 @@ body {
   padding: 0px 10px;
   line-height: 1.6;
   font-size: 16px;
-  font-family: sans-serif;
+  font-family: 'Yu Gothic', sans-serif;
+  background-color: antiquewhite;
 }
 img.emoji {
   height: 1em;
@@ -21,4 +22,8 @@ img {
 pre {
   line-height: 1.4;
   font-size: 14px;
+}
+
+.title{
+  font-size: 36px;
 }
